@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "55569338608",
+    "project_id": "posyandu-bus",
+    "storage_bucket": "posyandu-bus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55569338608:android:417f20df9a377d2255f235",
+        "android_client_info": {
+          "package_name": "com.posyandu.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55569338608-m5fc4fbkirsqf7uqe92qmg9ie1sf4t58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4vaPPjTaULgPdTzFeyJHHXpB08ZZsEh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55569338608-m5fc4fbkirsqf7uqe92qmg9ie1sf4t58.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
